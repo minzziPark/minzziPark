@@ -1,10 +1,16 @@
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&show_icons=true&theme=radical"/>
+
 
 ## Park Minji
 ☝🏻 매일매일 끊임없이 성장하는 겸손한 개발자가 되겠습니다.
 
-## 💬 Minji.dev
+
+ ## 💬 Minji.dev
 [minji's tistory](https://world-developer.tistory.com/) 
+
+ <br>
+
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzziPark&layout=compact&theme=radical"/>
 
  <br>
 
@@ -29,7 +35,8 @@
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/styled/component-e084c6?style=flat-square&logo=styled-components&logoColor=white"/>
- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"></a>
+<img src="https://img.shields.io/badge/styled/component-e084c6?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"></a>
  
+
