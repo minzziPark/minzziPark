@@ -1,11 +1,10 @@
-
-
 ## Park Minji
+
 ☝🏻 매일매일 끊임없이 성장하는 겸손한 개발자가 되겠습니다.
 
+## 💬 Minji.dev
 
- ## 💬 Minji.dev
-[minji's tistory](https://world-developer.tistory.com/) 
+[minji's tistory](https://world-developer.tistory.com/)
 
  <br>
 
