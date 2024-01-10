@@ -8,15 +8,17 @@
 
  |활동 소속 |기간|내용|
 |---|---|---|
-|<a href="https://we-pard.com/">대학생 연합 IT 협업 동아리 PARD</a>|24.02 ~ | 3기 웹파트장  |
+|<a href="https://we-pard.com/">대학생 연합 IT 협업 동아리 PARD</a>| 24.02 ~ | 3기 웹파트장  |
 | 그로센딕 코딩학원 강사 | 24.01 ~ | C, Python 강의 알바  |
-|<a href="https://we-pard.com/">대학생 연합 IT 협업 동아리 PARD</a>|23.09 ~ 24.01 | 2기 웹파트 파디 |
-|<a href="https://precious-relationship.web.app/"> PARD 롱커톤 값진연고팀 - MoneyGlove </a>|24.01 ~ | 친구 간 1:N 채무 관계 체결 서비스 디벨롭 for 공모전 |
-|<a href="https://precious-relationship.web.app/"> PARD 롱커톤 값진연고팀 - MoneyGlove </a>|23.12 ~ 24.01 | 친구 간 1:N 채무 관계 체결 서비스(우수상) 1차 배포 |
+|<a href="https://we-pard.com/">대학생 연합 IT 협업 동아리 PARD</a>| 23.09 ~ 24.01 | 2기 웹파트 파디 |
+|<a href="https://precious-relationship.web.app/"> PARD 롱커톤 값진연고팀 - MoneyGlove </a>| 24.01 ~ | 친구 간 1:N 채무 관계 체결 서비스 디벨롭 for 공모전 |
+|<a href="https://precious-relationship.web.app/"> PARD 롱커톤 값진연고팀 - MoneyGlove </a>| 23.12 ~ 24.01 | 친구 간 1:N 채무 관계 체결 서비스(우수상) 1차 배포 |
 | PARD 숏커톤 유니팀 - 최애의 교수 | 23.11.24 ~ | 나와 가장 잘맞는 한동대학교 전산전자공학부 교수님은 누구일까?(3위) |
 | 모바일 앱 개발 - Beeginner | 23.09 ~ 23.12 | 초보 알바생을 위한 체크리스트 어플 |
-| 깃허브 스터디 심화 In PARD |23.12 ~ 24.01| 깃허브 심화 스터디 운영 및 참여 |
-| 깃허브 스터디 기초 In PARD |23.11 ~ 23.12| 깃허브 기초 스터디 운영 및 참여 |
+| 깃허브 스터디 심화 In PARD | 23.12 ~ 24.01 | 깃허브 심화 스터디 운영 및 참여 |
+| 깃허브 스터디 기초 In PARD | 23.11 ~ 23.12 | 깃허브 기초 스터디 운영 및 참여 |
+| 네트워크 프로젝트 - 라이어 게임 | 23.05 ~ 23.06 | tcp와 mosquitto를 이용한 MQTT 라이어게임 구현 |
+
 
 ## 🔥 Tech Stack 🔥
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
