@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&show_icons=true&theme=highcontrast"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&show_icons=true&theme=radical"/>
 
-## 🐵 Park Minji
+## Park Minji
 ☝🏻 매일매일 끊임없이 성장하는 겸손한 개발자가 되겠습니다.
 
 ## 💬 Minji.dev
@@ -8,7 +8,7 @@
 
  <br>
 
- ## 👩‍💻 Experience 👩‍💻
+ ## 🏃‍♀️ Experience 🏃‍♀️
 
  |활동 소속 |기간|내용|
 |---|---|---|
@@ -22,7 +22,7 @@
 
 <br>
 
-## 📚 Tech Stack 📚
+## 🔥 Tech Stack 🔥
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>
