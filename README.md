@@ -1,6 +1,6 @@
 ## PARK MINJI
 
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&contribs&count_private=true&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzziPark&layout=compact&theme=radical"/>
 <br>
 
