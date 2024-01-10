@@ -1,7 +1,7 @@
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&show_icons=true&theme=dracula"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&show_icons=true&theme=highcontrast"/>
 
-## Park Minji
-🤍 매일매일 끊임없이 성장하는 겸손한 개발자가 되겠습니다.
+## 🐵 Park Minji
+☝🏻 매일매일 끊임없이 성장하는 겸손한 개발자가 되겠습니다.
 
 ## 💬 Minji.dev
 [minji's tistory](https://world-developer.tistory.com/) 
