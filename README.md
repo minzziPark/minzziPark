@@ -1,8 +1,7 @@
-
+## PARK MINJI
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzziPark&layout=compact&theme=radical"/>
 
- <br>
 
  ## 🏃‍♀️ Experience 🏃‍♀️
 
@@ -16,8 +15,6 @@
 | PARD 숏커톤 유니팀 - 최애의 교수 | 23.11.24 ~ |  나와 가장 잘맞는 한동대학교 전산전자공학부 교수님은 누구일까?(3위)  |
 | 깃허브 스터디 심화 In PARD |23.12 ~ 24.01| 깃허브 심화 스터디 운영 및 참여 |
 | 깃허브 스터디 기초 In PARD |23.11 ~ 23.12| 깃허브 기초 스터디 운영 및 참여 |
-
-<br>
 
 ## 🔥 Tech Stack 🔥
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
