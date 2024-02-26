@@ -9,7 +9,7 @@
  |활동 소속 |기간|내용|
 |---|---|---|
 |<a href="https://we-pard.com/">대학생 연합 IT 협업 동아리 PARD</a>| 24.02 ~ | 3기 웹파트장  |
-| 그로센딕 코딩학원 강사 | 24.01 ~ | C, Python 강의 알바  |
+| 그로센딕 코딩학원 강사 | 24.01 ~ | C, Python, 웹개발 강의 알바  |
 |<a href="https://we-pard.com/">대학생 연합 IT 협업 동아리 PARD</a>| 23.09 ~ 24.01 | 2기 웹파트 파디 |
 |<a href="https://precious-relationship.web.app/"> PARD 롱커톤 값진연고팀 - MoneyGlove </a>| 24.01 ~ | 친구 간 1:N 채무 관계 체결 서비스 디벨롭 for 공모전 |
 |<a href="https://precious-relationship.web.app/"> PARD 롱커톤 값진연고팀 - MoneyGlove </a>| 23.12 ~ 24.01 | 친구 간 1:N 채무 관계 체결 서비스(우수상) 1차 배포 |
