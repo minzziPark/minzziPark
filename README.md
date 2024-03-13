@@ -1,7 +1,4 @@
-## PARK MINJI
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&contribs&count_private=true&show_icons=true&theme=radical"/>
-<br>
+## 🔥 알아감의 두근거림을 좋아합니다 🔥
 
  ## 🏃‍♀️ Experience 🏃‍♀️
 
@@ -19,6 +16,9 @@
 | 깃허브 스터디 기초 In PARD | 23.11 ~ 23.12 | 깃허브 기초 스터디 운영 및 참여 |
 | 네트워크 프로젝트 - 라이어 게임 | 23.05 ~ 23.06 | tcp와 mosquitto를 이용한 MQTT 라이어게임 구현 |
 
+<br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&contribs&count_private=true&show_icons=true&theme=radical"/>
+<br>
 
 ## 🔥 Tech Stack 🔥
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
