@@ -35,7 +35,3 @@
 | Python | Advanced | Over 3 |
 | C | Advanced | Over 3 |
 | C++ | Advanced | Over 3 |
-
-<br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&contribs&count_private=true&show_icons=true&theme=dark"/>
