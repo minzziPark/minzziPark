@@ -20,18 +20,12 @@
 <br>
 
 ## Tech Stack & Proficiency Level
-| Stack | Proficiency Level | project |
-|---|---|---|
-| React | Advanced | Over 3 |
-| Javascript | Advanced | Over 3  |
-| Recoil | Advanced | 2 |
-| Node.js | Intermediate | 1 |
-| HTML5 | Advanced | Over 3 |
-| CSS3 | Advanced | Over 3 |
-| Styled-components | Advanced | Over 3 |
-| Git | Advanced | Over 3 |
-| Github | Advanced | Over 3 |
-| Notion | Advanced | Over 3 |
-| Python | Advanced | Over 3 |
-| C | Advanced | Over 3 |
-| C++ | Advanced | Over 3 |
+| Stack | Proficiency Level | project | Stack | Proficiency Level | project |
+|---|---|---|---|---|---|
+| React | Advanced | Over 3 | Javascript | Advanced | Over 3  |
+| Recoil | Advanced | 2 | Node.js | Intermediate | 1 |
+| HTML5 | Advanced | Over 3 | CSS3 | Advanced | Over 3 |
+| Styled-components | Advanced | Over 3 | Git | Advanced | Over 3 |
+| Github | Advanced | Over 3 | Notion | Advanced | Over 3 |
+| Python | Advanced | Over 3 | C | Advanced | Over 3 |
+| C++ | Advanced | Over 3 ||||
