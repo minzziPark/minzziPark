@@ -1,6 +1,6 @@
-## 🔥알아감의 두근거림을 좋아합니다🔥
+## 알아감의 두근거림을 좋아합니다
 
- ## 🏃‍♀️Experience🏃‍♀️
+ ## Experience
 
  |활동 소속 |기간|내용|
 |---|---|---|
@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minzziPark&contribs&count_private=true&show_icons=true&theme=radical"/>
 <br>
 
-## 🔥Tech Stack🔥
+## Tech Stack
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>
