@@ -21,7 +21,7 @@
 - 역할 | FE
 - 팀 구성 | FE 1, PM 1, DESIGN 1
 
-### 03 [MoneyGlove 3주 동아리 프로젝트](https://github.com/minzziPark/My_Precious_WEB)
+### 04 [MoneyGlove 3주 동아리 프로젝트](https://github.com/minzziPark/My_Precious_WEB)
 
 - 기간 | 23.12 - 24.01
 - 역할 | FE
